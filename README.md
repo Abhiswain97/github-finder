@@ -1,6 +1,6 @@
 # Github Finder
 
-Part of the course: `React Front to Back`, made for self-study.
+Part of the course: [React Front to Back by Brad Traversy](https://www.udemy.com/course/modern-react-front-to-back/), made for self-study.
 
 Use it to search for Github users.
 
