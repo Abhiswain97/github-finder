@@ -1,7 +1,7 @@
 # Github Finder
 
 <p align="center">
-  <img src="https://github.com/Abhiswain97/github-finder/blob/main/github-finder-demo.gif" height="300" width="300">
+  <img src="https://github.com/Abhiswain97/github-finder/blob/main/github-finder-demo.gif">
 </p>
 
 Part of the course: [React Front to Back by Brad Traversy](https://www.udemy.com/course/modern-react-front-to-back/), made for self-study.
